@@ -25,7 +25,7 @@ Projetos\DBMG
 
 ## Como rodar a API
 
-1. Execute o script `DBMG_Create.sql` no SQL Server para criar o banco e a tabela `Tarefas` ou utilize o banco de dados localizado em ..\\DBMG\DB.
+1. Execute o script `DBMG_Create.sql` no SQL Server para criar o banco e a tabela `Tarefas` e mova para ..\\DBMG\DB.
 2. Abra o projeto `ProjetoDBMG` (console application) no Delphi.
 3. Ajuste as credenciais no `connection.factory.pas` (usuário, senha ou autenticação Windows que já está configurado).
 4. Compile e execute a API.  
