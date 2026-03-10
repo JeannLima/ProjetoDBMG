@@ -11,9 +11,13 @@ Este projeto consiste em uma **API em Delphi (Horse + FireDAC)** e um **cliente 
 ## Estrutura do Projeto
 Projetos\DBMG
 ├── Bin -> Executáveis
+
 ├── Units\api-horse -> Units da API (controller, connection)
+
 ├── Units\client -> Units do cliente VCL
+
 ├── DBMG_Create.sql -> Script para criar o banco e tabela
+
 ├── README.md -> Este arquivo
 
 ## Pré-requisitos
